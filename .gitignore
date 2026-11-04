@@ -1,0 +1,13 @@
+data/
+results/
+container/
+.log/
+*.sif
+*.bam
+*.bai
+*.fastq.gz
+*.fa
+*.fai
+*.gtf
+*.gff3
+*.ht2
