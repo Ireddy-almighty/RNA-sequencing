@@ -1,7 +1,9 @@
 data/
 results/
 container/
-.log/
+reference/
+logs/
+raw_data
 *.sif
 *.bam
 *.bai

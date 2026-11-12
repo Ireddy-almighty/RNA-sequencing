@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 #SBATCH --partition=pshort_el8
 #SBATCH --account=class-467713-ws-2026
 #SBATCH --job-name=fastqc
